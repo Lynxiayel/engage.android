@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.3.1">
+  <compounddef id="dir_665d3de7920f01ed305ae92680e0f8d3" kind="dir">
+    <compoundname>/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage</compoundname>
+    <innerdir refid="dir_17d083da462a91298e5f0203a4e53288">/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/net</innerdir>
+    <innerdir refid="dir_1b2ebc21644f0fcc1624993bcc458f3d">/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/session</innerdir>
+    <innerdir refid="dir_6eec6f9a6c31db1e7d4243402e352faf">/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/types</innerdir>
+    <innerdir refid="dir_0a7e351498b93ab2c34813ebb8f3a28a">/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/ui</innerdir>
+    <innerdir refid="dir_aa565067acd6e0e7faab8324d60dd388">/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/utils</innerdir>
+    <innerfile refid="_j_r_engage_8java">JREngage.java</innerfile>
+    <innerfile refid="_j_r_engage_delegate_8java">JREngageDelegate.java</innerfile>
+    <innerfile refid="_j_r_engage_error_8java">JREngageError.java</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/"/>
+  </compounddef>
+</doxygen>

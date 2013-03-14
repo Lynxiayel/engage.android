@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.4">
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.3.1">
   <compounddef id="_j_r_media_object_8java" kind="file">
     <compoundname>JRMediaObject.java</compoundname>
     <innerclass refid="classcom_1_1janrain_1_1android_1_1engage_1_1types_1_1_j_r_media_object" prot="public">com::janrain::android::engage::types::JRMediaObject</innerclass>
@@ -82,13 +82,13 @@
 <codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="84"><highlight class="normal"></highlight></codeline>
-<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>interface<sp/>ThumbnailAvailableListener<sp/>{</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">interface<sp/></highlight><highlight class="normal">ThumbnailAvailableListener<sp/>{</highlight></codeline>
 <codeline lineno="89"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>onThumbnailAvailable(Bitmap<sp/>b);</highlight></codeline>
 <codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="91"><highlight class="normal"></highlight></codeline>
 <codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">abstract</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1janrain_1_1android_1_1engage_1_1types_1_1_j_r_dictionary" kindref="compound" tooltip="A dictionary that maps String keys to values of different types.">JRDictionary</ref><sp/>toJRDictionary();</highlight></codeline>
 <codeline lineno="97"><highlight class="normal">}</highlight></codeline>
     </programlisting>
-    <location file="/Users/nathan/android-code/engage.android/JREngage/src/com/janrain/android/engage/types/JRMediaObject.java"/>
+    <location file="/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/types/JRMediaObject.java"/>
   </compounddef>
 </doxygen>

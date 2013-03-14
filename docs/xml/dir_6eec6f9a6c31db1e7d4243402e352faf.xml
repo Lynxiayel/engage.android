@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.4">
-  <compounddef id="dir_0502098f6949e4e37f347726422c5f04" kind="dir">
-    <compoundname>/Users/nathan/android-code/engage.android/JREngage/src/com/janrain/android/engage/types/</compoundname>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.3.1">
+  <compounddef id="dir_6eec6f9a6c31db1e7d4243402e352faf" kind="dir">
+    <compoundname>/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/types</compoundname>
     <innerfile refid="_j_r_action_link_8java">JRActionLink.java</innerfile>
     <innerfile refid="_j_r_activity_object_8java">JRActivityObject.java</innerfile>
     <innerfile refid="_j_r_dictionary_8java">JRDictionary.java</innerfile>
@@ -16,6 +16,6 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="/Users/nathan/android-code/engage.android/JREngage/src/com/janrain/android/engage/types/"/>
+    <location file="/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/types/"/>
   </compounddef>
 </doxygen>

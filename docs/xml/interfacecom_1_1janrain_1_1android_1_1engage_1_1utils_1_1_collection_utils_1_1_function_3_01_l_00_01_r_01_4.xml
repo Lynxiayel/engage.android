@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.4">
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.3.1">
   <compounddef id="interfacecom_1_1janrain_1_1android_1_1engage_1_1utils_1_1_collection_utils_1_1_function_3_01_l_00_01_r_01_4" kind="interface" prot="public">
     <compoundname>com::janrain::android::engage::utils::CollectionUtils::Function&lt; L, R &gt;</compoundname>
-      <sectiondef kind="package-func">
-      <memberdef kind="function" id="interfacecom_1_1janrain_1_1android_1_1engage_1_1utils_1_1_collection_utils_1_1_function_3_01_l_00_01_r_01_4_1a4d9854b71a76d8e618bbe8b2090812eb" prot="package" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="interfacecom_1_1janrain_1_1android_1_1engage_1_1utils_1_1_collection_utils_1_1_function_3_01_l_00_01_r_01_4_1a4d9854b71a76d8e618bbe8b2090812eb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>L</type>
         <definition>L operate</definition>
         <argsstring>(R val)</argsstring>
@@ -18,16 +18,16 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/Users/nathan/android-code/engage.android/JREngage/src/com/janrain/android/engage/utils/CollectionUtils.java" line="52"/>
+        <location file="/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/utils/CollectionUtils.java" line="52"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="/Users/nathan/android-code/engage.android/JREngage/src/com/janrain/android/engage/utils/CollectionUtils.java" line="51" bodyfile="/Users/nathan/android-code/engage.android/JREngage/src/com/janrain/android/engage/utils/CollectionUtils.java" bodystart="51" bodyend="53"/>
+    <location file="/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/utils/CollectionUtils.java" line="51" bodyfile="/Users/mitch/android-code/engage.android/JREngage/src/com/janrain/android/engage/utils/CollectionUtils.java" bodystart="51" bodyend="53"/>
     <listofallmembers>
-      <member refid="interfacecom_1_1janrain_1_1android_1_1engage_1_1utils_1_1_collection_utils_1_1_function_3_01_l_00_01_r_01_4_1a4d9854b71a76d8e618bbe8b2090812eb" prot="package" virt="non-virtual"><scope>com::janrain::android::engage::utils::CollectionUtils::Function&lt; L, R &gt;</scope><name>operate</name></member>
+      <member refid="interfacecom_1_1janrain_1_1android_1_1engage_1_1utils_1_1_collection_utils_1_1_function_3_01_l_00_01_r_01_4_1a4d9854b71a76d8e618bbe8b2090812eb" prot="public" virt="non-virtual"><scope>com::janrain::android::engage::utils::CollectionUtils::Function&lt; L, R &gt;</scope><name>operate</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>
